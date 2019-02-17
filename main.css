@@ -234,3 +234,7 @@ body, html {
 .show .counter-label {
     display: block;
 }
+
+.odometer {
+    font-size: 60px;
+}
